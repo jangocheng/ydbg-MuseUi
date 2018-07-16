@@ -1,0 +1,2 @@
+webpackJsonp([28],{iDfU:function(e,t){},sshl:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("work")])},staticRenderFns:[]};var i=n("VU/8")({name:"Work"},r,!1,function(e){n("iDfU")},"data-v-521ed413",null);t.default=i.exports}});
+//# sourceMappingURL=28.07e518e5818968395814.js.map
